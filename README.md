@@ -16,6 +16,8 @@ Food images were scraped from Instagram using [igScrape](https://github.com/yufu
 
 Non-food images were taken from the [Food-5K dataset](https://mmspg.epfl.ch/downloads/food-image-datasets/) by the Ecole Polytechnique Fédérale de Lausanne.
 
+The total size of our dataset is about 1.26 GB.
+
 ### Classes
 
 - Bak Chor Mee
